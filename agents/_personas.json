@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "caliban",
+    "name": "Caliban",
+    "epithet": "the monster's side of the story",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Caliban:CBH:ce0873⟧"
+  },
+  {
+    "slug": "miranda",
+    "name": "Miranda",
+    "epithet": "the captive listener",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Miranda:CBH:0953eb⟧"
+  },
+  {
+    "slug": "the-tempest-retold",
+    "name": "The Tempest, Retold",
+    "epithet": "from below the magic",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Tempest, Retold:CBH:9f2509⟧"
+  }
+]
