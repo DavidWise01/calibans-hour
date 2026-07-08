@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 600
+slug  : calibans-hour
+seal  : 68d23ea8e6a6e7dd9a75113eebac5ab64d1f8e12808c6726bebc398d199e3739
+prev  : e2cf86b2558aa2e73a8c2323ce435edfb52383506e677461127f13bea5df0509
+link  : df2b4b90da2c30113077237c6a9974fd206126cbd2724add8cf8b56adec2da04
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
